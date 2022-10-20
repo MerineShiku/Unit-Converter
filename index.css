@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    background: #1F2937;
+     height: 100vh;
+     box-sizing: border-box;
+     padding: 0;
+    text-align: center;
+}
+
+
+h1{
+ font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+letter-spacing: -0.03em;
+color: white;
+}
+
+
+
+input [type="numbers"]{
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+color: #FFFFFF;
+height: 20px;
+text-align: center;
+
+
+}
+
+
+
+
+#convert-btn{
+
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  margin-top: 20px;
+  padding: 4px 20px;
+
+
+}
+
+
+.hero{
+    
+    width: 100%;
+    background: #6943FF;
+    height: 40vh;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+   
+}
+
+
+
+
+
+.converter{
+    background: #273549;
+    text-align: center;
+    margin: 25px;
+    padding: 5px;   
+     
+    
+}
+
+
+#display-convert{
+  
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+.header-el{
+   color:#CCC1FF;
+   
+}
+
+
+#length-convert, #mass-convert, #volume-convert{
+    color: white;
+     font-size: 12px;
+}
